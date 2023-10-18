@@ -1,0 +1,23 @@
+Atividade:
+
+• **git commit:** Efetua o registro das alterações realizadas em um ambiente local para o repositório no Git. Este processo permite a inclusão de uma mensagem descritiva, possibilitando que cada desenvolvedor submeta suas contribuições, explicando claramente o que foi realizado.
+
+• **git add:** O comando "git add" é utilizado para adicionar modificações a um repositório Git antes de efetuar um commit. Essa etapa é crucial no fluxo de trabalho do Git, pois permite a seleção específica de quais arquivos ou alterações serão incluídos no próximo commit.
+
+• **git branch:** Para colaboração em equipe, é possível criar diferentes branches, sendo que o Git gerencia todas elas em paralelo para evitar conflitos de versão. Posteriormente, é possível unificar as ramificações por meio de um comando específico.
+
+• **git merge:** Após programar em uma branch, é necessário mesclá-la com outras para incorporar efetivamente as alterações. Basta utilizar o comando "merge" seguido pelo nome da branch que se deseja integrar à principal.
+
+• **git mainline:** A linha principal do desenvolvimento.
+
+• **git clone:** Por meio deste comando, é possível clonar um código de um repositório para a máquina local, permitindo iniciar o trabalho. Isso pode ser um projeto interno da empresa, um projeto colaborativo na faculdade ou até mesmo uma aplicação open-source na qual se deseja contribuir.
+
+• **git push:** Utilizado para enviar as alterações de uma ramificação para um repositório específico. Esse comando transfere todos os commits juntamente com suas mensagens.
+
+• **git pull:** Antes de começar a programar em um repositório, é recomendável executar um "pull". Este comando traz todas as mudanças realizadas remotamente para a máquina local, atualizando assim a versão da aplicação.
+
+• **git staged:** No Git, a área "staged" (ou área de preparação) é onde você seleciona as alterações que serão incluídas no próximo commit. O Git permite controlar quais modificações estão prontas para serem registradas no histórico de versionamento, passando por três estágios: área de trabalho, área de preparação e repositório.
+
+• **git version:** Ao executar o comando git version, será exibida a versão atual do Git instalada na máquina.
+
+• **git repository:** O termo "repository" refere-se ao repositório no contexto do Git. Em um projeto de software, o repositório é o local centralizado onde todas as informações e históricos relacionados ao código-fonte são armazenados e gerenciados. É um ponto central que mantém todas as versões passadas, presentes e futuras do código.
